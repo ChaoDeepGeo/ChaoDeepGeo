@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm Chao Li, a postdoc fellow working in UT-Austin
 <!--END_SECTION:activity-->
 
 
-
 ## Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
