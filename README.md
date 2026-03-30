@@ -1,15 +1,16 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Chao Li, a postdoc fellow working in UT-Austin.
+Welcome to my GitHub profile! I am **Chao Li**, a **Postdoctoral fellow** at **The University of Texas at Austin**.
 
 ## About Me
 
-- 🔭 I’m currently working on deep learning based FWI, signal processing.
-
+- 🔭 I am currently working on **deep-learning-based full-waveform inversion (FWI)** and **seismic signal processing**
+- 🌍 My research interests include **computational geophysics**, **seismic imaging**, and **AI for geoscience applications**
+- 📌 I use this GitHub profile to share research projects, codes, and academic work
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Top Languages
 
@@ -19,7 +20,6 @@ Welcome to my GitHub profile! I'm Chao Li, a postdoc fellow working in UT-Austin
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 
 ## Visitor Count
 
