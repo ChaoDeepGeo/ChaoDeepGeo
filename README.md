@@ -45,9 +45,6 @@ Advanced signal processing methods for seismic imaging and data reconstruction.
 ### Industrial Vision Systems
 Computer vision algorithms for industrial inspection and automation.
 
-### Robotics & Embodied AI
-Perception and control systems for intelligent robotic platforms.
-
 ---
 
 ## 📊 GitHub Statistics
