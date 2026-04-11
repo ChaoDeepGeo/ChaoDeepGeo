@@ -35,15 +35,6 @@ Advanced signal processing methods for seismic imaging and data reconstruction.
 ### Global seismology 
 Seismic signal processing and imaging for large-scale Earth structure studies.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaoDeepGeo&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoDeepGeo&layout=compact&theme=tokyonight)
 
 ---
 
@@ -60,13 +51,5 @@ Seismic signal processing and imaging for large-scale Earth structure studies.
 
 ---
 
-## 📈 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
----
-
-## 👀 Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/ChaoDeepGeo/count.svg)
