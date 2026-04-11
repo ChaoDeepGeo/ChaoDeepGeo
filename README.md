@@ -3,7 +3,7 @@
 Postdoctoral Fellow  
 The University of Texas at Austin  
 
-Researcher in **Computational Geophysics & AI & Global Seismology**
+Researcher in **Computational Geophysics & AI & Earthquake**
 
 ---
 
