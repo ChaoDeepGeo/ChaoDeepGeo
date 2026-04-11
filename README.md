@@ -32,8 +32,8 @@ Physics-informed neural networks and deep-learning approaches for full-waveform 
 ### Seismic Signal Processing
 Advanced signal processing methods for seismic imaging and data reconstruction.
 
-### Industrial Vision Systems
-Computer vision algorithms for industrial inspection and automation.
+### Global seismology 
+Seismic signal processing and imaging for large-scale Earth structure studies.
 
 ---
 
