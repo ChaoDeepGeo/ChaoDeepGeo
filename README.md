@@ -58,7 +58,7 @@ Seismic signal processing and imaging for large-scale Earth structure studies.
 ## 🌐 Academic Profiles
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=4G7bAlUAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-brightgreen)](https://orcid.org/)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-brightgreen)](https://orcid.org/0000-0001-7388-4730)
 
 ---
 
