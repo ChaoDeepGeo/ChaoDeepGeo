@@ -15,16 +15,6 @@ Researcher in **Computational Geophysics & AI**
 - **Geophysical Inversion**
 - AI for **Earth Science Applications**
 
----
-
-## 🤖 Engineering & Applied AI
-
-In addition to academic research, I also work on applied AI systems:
-
-- Industrial **Computer Vision**
-- **Robotics perception**
-- **Embodied AI**
-- Vision-guided automation systems
 
 ---
 
@@ -67,10 +57,9 @@ Computer vision algorithms for industrial inspection and automation.
 
 ## 🌐 Academic Profiles
 
-- Google Scholar
-- ResearchGate
-- ORCID
-- Personal Website
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green)](https://www.researchgate.net/)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-brightgreen)](https://orcid.org/)
 
 ---
 
