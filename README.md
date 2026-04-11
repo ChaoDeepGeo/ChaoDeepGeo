@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I am **Chao Li**, a **Postdoctoral fellow** at **T
 - 🌍 My research interests include **computational geophysics**, **seismic imaging**, and **AI for geoscience applications**
 - 📌 I use this GitHub profile to share research projects, codes, and academic work
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaoDeepGeo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaoDeepGeo&show_icons=true&theme=tokyonight)
 
-## Top Languages
+## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoDeepGeo&layout=compact&theme=tokyonight)
 
 ## Recent Activity
 
