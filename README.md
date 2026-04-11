@@ -37,11 +37,9 @@ Seismic signal processing and imaging for large-scale Earth structure studies.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaoDeepGeo&show_icons=true&theme=tokyonight)
-
----
 
 ## 💻 Most Used Languages
 
